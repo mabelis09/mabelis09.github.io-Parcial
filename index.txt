@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hoja de vida</title>
+</head>
+<body>
+
+<h1>Mabelis Campos</h1>
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Datos personales</th>
+  </tr>
+  <tr>
+    <td>Nombre Completo: Mabelis Isabel Campos M. <br>
+    	Cédula: 8-973-1777 <br>
+        Fecha de nacimiento: 9 de agosto de 2001 <br>
+        Dirección: Santa Librada, 3ra Etapa<br>
+        Teléfono: 6739-9940 <br>
+        Correo electrónico: mabelis09@gmail.com <br>
+    </td>
+  </tr>
+  
+</table><br>
+<table>
+  <tr>
+  	<th>Perfil profesional</th>
+  </tr>
+  <tr>
+    <td>Responsable y comprometida <br>
+    	Dedicación<br>
+    	Resolución de problemas <br>
+        Microsoft Office <br>
+    	Capacidad de trabajo en equipo <br>
+		Superación personal y mejora continua <br>
+    </td>
+  </tr>
+</table><br>
+
+<table>
+  <tr>
+  	<th>Formación académica</th>
+  </tr>
+  <tr>
+    <td>Bachiller en Ciencias con Énfasis en Informática (2018)<br>
+    	Ingeniería en Operaciones Aeroportuarias, Universidad de Panamá (Cursando)<br>
+    </td>
+  </tr>
+</table><br>
+
+<table>
+  <tr>
+  	<th>Dominio de idiomas</th>
+  </tr>
+  <tr>
+    <td>Español - Nativa<br>
+    	Inglés Nivel B2<br>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
